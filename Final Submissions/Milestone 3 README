@@ -1,0 +1,4 @@
+# Added Parameter tuning and cross validation to both models
+# Included scores on training and test sets
+# Revised usage of actor and director info to include in bag of words
+# Revised bag of words to TF/IDF 
