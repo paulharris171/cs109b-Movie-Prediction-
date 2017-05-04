@@ -7,8 +7,8 @@ Paul Harris, Mitchell Foster, Luke Morgan-Scott
 ## Final report PDF
 https://github.com/paulharris171/cs109b-Movie-Prediction-/blob/master/Final%20Submissions/CS109bProjectReport.pdf
 
-## Screencast
-https://github.com/paulharris171/cs109b-Movie-Prediction-/blob/master/Final%20Submissions/complete_movie_dataframe.zip
+## Youtube Screencast
+http://youtu.be/wVab8i_W-9g?hd=1
 
 ## Up to date versions of notebooks
 - Milestone 1: 
