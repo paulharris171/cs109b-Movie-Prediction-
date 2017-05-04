@@ -2,3 +2,4 @@
 # Included scores on training and test sets
 # Revised usage of actor and director info to include in bag of words
 # Revised bag of words to TF/IDF 
+# Revised adjusted genres so that the approach is more complex
