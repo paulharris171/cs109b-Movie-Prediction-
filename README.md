@@ -10,7 +10,7 @@ https://github.com/paulharris171/cs109b-Movie-Prediction-/blob/master/Final%20Su
 ## Youtube Screencast
 http://youtu.be/wVab8i_W-9g?hd=1
 
-## Up to date versions of notebooks
+## Notebooks
 - Milestone 1: 
 https://github.com/paulharris171/cs109b-Movie-Prediction-/blob/master/Final%20Submissions/Milestone%20%231.ipynb
 - Milestone 2: 
